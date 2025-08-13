@@ -1,4 +1,4 @@
-# mxc-tweets-list
+# moonchain-tweets-list
 
 ## Marketing team guide 
 ### Dear marketing team, please go through these steps to add MXC tweet to the apps wallet page tweets
